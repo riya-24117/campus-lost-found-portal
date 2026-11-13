@@ -1,0 +1,22 @@
+
+# Maven build files
+target/
+
+# Local SQLite database
+database/*.db
+database/*.db-shm
+database/*.db-wal
+
+# Compiled Java files
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
